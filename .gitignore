@@ -139,11 +139,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.gitignore
-.idea/.gitignore
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/sec1.iml
-complete.py
-strong.py
+__pycache__/difficulty.cpython-37.pyc
+__pycache__/main.cpython-37.pyc
+__pycache__/paddle.cpython-37.pyc
+__pycache__/viewport.cpython-37.pyc
